@@ -1,0 +1,5 @@
+{
+    "nodeId": "2deadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef",
+    "secretKey": "2deadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef",
+    "secretManagerURL": "https://localhost:6999/"
+}
